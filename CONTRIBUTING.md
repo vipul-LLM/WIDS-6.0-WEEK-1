@@ -1,0 +1,3 @@
+# Collaboration guidelines
+This repository contains learning materials. Application code belongs in [OweBro](https://github.com/vipul-LLM/Owebro).
+Use a personal branch or fork; never push directly to the application's main branch. Coordinate ideas with the mentor and teammates before large changes. Keep commits focused, explain changes, and test before opening a pull request. Include reproduction steps for bugs and before/after evidence when relevant. Request mentor review; do not merge your own unreviewed changes. Do not commit credentials, real user data or node_modules. Ask for help with a clear description of what you tried, not just a screenshot of an error.
