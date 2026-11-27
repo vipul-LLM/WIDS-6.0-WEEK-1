@@ -1,18 +1,19 @@
-# Learning resources — use when needed
-These are reference materials, not a compulsory playlist. Read or watch the relevant section when a task exposes a gap in your knowledge.
+# Week 1 learning resources
+Use the relevant sections when stuck. Do not spend the entire week watching courses.
 
-| Topic | Resources | Focus |
+## Video tutorials
+- [freeCodeCamp: Data Analysis with Python](https://www.youtube.com/watch?v=GPVsHOlRBBI) — Python, NumPy, Pandas, visualization and EDA; select relevant chapters.
+- [freeCodeCamp: NumPy, Pandas, Matplotlib and Seaborn](https://www.youtube.com/watch?v=r-uOLxNrNk8) — alternative beginner course.
+
+## Reading and hands-on practice
+| Topic | Resource | Focus |
 |---|---|---|
-| Git/GitHub | [Git book](https://git-scm.com/book/en/v2), [GitHub Skills](https://skills.github.com/) | clone, branch, commit, push, pull request |
-| JavaScript | [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | objects, arrays, modules, async/await |
-| React | [React Learn](https://react.dev/learn), [Chai aur React videos](https://www.youtube.com/@chaiaurcode/playlists) | components, props, state, effects |
-| Routing | [React Router docs](https://reactrouter.com/) | routes and navigation |
-| Styling | [Tailwind CSS docs](https://tailwindcss.com/docs) | layout, spacing, responsive utilities |
-| Node and npm | [Node.js Learn](https://nodejs.org/en/learn) | runtime, scripts, dependencies |
-| Express | [Express guide](https://expressjs.com/en/guide/routing.html), [Chai aur Backend videos](https://www.youtube.com/@chaiaurcode/playlists) | routing, middleware, request/response |
-| Database | [Mongoose guide](https://mongoosejs.com/docs/guide.html), [MongoDB docs](https://www.mongodb.com/docs/) | schemas, models, CRUD |
-| API testing | [Postman Learning Center](https://learning.postman.com/) | methods, bodies, status codes |
-| Debugging | [Chrome DevTools](https://developer.chrome.com/docs/devtools/) | console, network, breakpoints |
-| Authentication | [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) | safe authentication concepts |
+| Python | [Official tutorial](https://docs.python.org/3/tutorial/) | functions, lists, dictionaries, loops |
+| NumPy | [Quickstart](https://numpy.org/doc/stable/user/quickstart.html) | arrays, shapes, numerical operations |
+| Pandas | [Getting started](https://pandas.pydata.org/docs/getting_started/index.html), [Kaggle Pandas](https://www.kaggle.com/learn/pandas) | read_csv, filtering, groupby, missing values |
+| Matplotlib | [Tutorials](https://matplotlib.org/stable/tutorials/index.html) | histogram, scatter, labels |
+| Seaborn | [Tutorial](https://seaborn.pydata.org/tutorial.html), [Kaggle visualization](https://www.kaggle.com/learn/data-visualization) | distributions, correlations, plots |
+| Git | [GitHub Skills](https://skills.github.com/) | branches, commits, PRs |
+| Dataset | [Spotify Tracks Dataset](https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset) | feature meanings and metadata |
 
-Choose tutorials matching the versions in the existing application. Ask the mentor for targeted video recommendations if the reference material does not resolve your blocker. Never copy secrets into screenshots or debugging requests.
+Optional preview for Week 2: [Scikit-learn preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) and [nearest neighbors](https://scikit-learn.org/stable/modules/neighbors.html). No model training is required this week.
